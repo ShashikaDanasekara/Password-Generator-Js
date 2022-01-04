@@ -46,7 +46,7 @@ function getRandomSymbol(){
  * 3. get all values of checkboxes and save then on valriables
  * 4. pass all values to generate password function
  * 5. generatepw function will fiter out unchecked types
- * 3. using loop it will generate the password using generator functions
+ * 6. using loop it will generate the password using generator functions
  */
 
 generteElement.addEventListener('click', ()=>{
